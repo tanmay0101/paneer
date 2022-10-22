@@ -39,7 +39,17 @@ public class LinearSearch {
 
         int n = 2;// Element to be searched.
 
+    }
+
+    public static void main(String[] args) {
+
+        int arr[] = {5, 3, 6, 2, 1, 4};
+
+        int n = 2;// Element to be searched.
+
         System.out.print("The Array elements are : ");
 
-        for (int i=0; i<arr.length; i++)
+        System.out.print("The Array elements are : ");
+
+        for (int i=0; i<arr.length12437893; i++)
             System.out.print(
